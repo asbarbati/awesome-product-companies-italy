@@ -41,6 +41,7 @@ To be listed in this repository, a company **must satisfy all of the following r
 | **Eidosmedia S.p.A.**                    | Enterprise / Product | Editorial & Business Software | [Website](https://www.eidosmedia.com/) | [Careers](https://www.eidosmedia.com/careers/) | [LinkedIn](https://www.linkedin.com/company/eidosmedia/) |
 | **Expert.ai S.p.A.**                     | Product / AI | AI & NLP Software | [Website](https://www.expert.ai) | [Careers](https://www.expert.ai/careers/) | [LinkedIn](https://www.linkedin.com/company/expert-ai/) |
 | **Inaz S.r.l.**                          | Enterprise / Product | HR Software & Payroll | [Website](https://www.inaz.it) | [Careers](https://www.inaz.it/chi-siamo/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/inaz/) |
+| **Italdesign-Giugiaro S.p.A.**           | B2B / Services & Manufacturing | Automotive / Industrial Design & Engineering | [Website](https://www.italdesign.it/) | [Careers](https://www.italdesign.it/it/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/italdesign-official/) |
 | **iubenda S.r.l.**                       | Product / SaaS | LegalTech / Compliance | [Website](https://www.iubenda.com) | [Careers](https://careers.iubenda.com/) | [LinkedIn](https://www.linkedin.com/company/iubenda/) |
 | **MailUp S.p.A.**                        | Product / SaaS | MarTech & Email Marketing | [Website](https://www.mailup.it) | [Careers](https://mailup.it/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/mailup/) |
 | **Musixmatch S.p.A.**                    | Product / Platform | MusicTech & Metadata | [Website](https://www.musixmatch.com) | [Careers](https://about.musixmatch.com/open-positions) | // |
@@ -61,7 +62,6 @@ To be listed in this repository, a company **must satisfy all of the following r
 | **Translated S.r.l.**                    | Product / AI | AI & Language Services | [Website](https://translated.com) | [Careers](https://translated.com/work-with-us) | [LinkedIn](https://www.linkedin.com/company/translated/) |
 | **Unobravo S.r.l.**                      | Product / Platform | HealthTech / E-Health | [Website](https://www.unobravo.com) | [Careers](https://www.unobravo.com/lavora-con-noi) | [LinkedIn](https://www.linkedin.com/company/unobravo/) |
 | **Zucchetti S.p.A.**                     | Enterprise / Product | HR & Enterprise Software | [Website](https://www.zucchetti.it) | [Careers](https://www.zucchetti.it/it/cms/careers/opportunita-di-lavoro.html) | [LinkedIn](https://www.linkedin.com/company/zucchetti/) |
-| **Italdesign-Giugiaro S.p.A.**           | B2B / Services & Manufacturing | Automotive / Industrial Design & Engineering | [Website](https://www.italdesign.it/) | [Careers](https://www.italdesign.it/it/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/italdesign-official/) |
 
 
 ---
