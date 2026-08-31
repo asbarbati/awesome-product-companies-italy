@@ -46,7 +46,8 @@ To be listed in this repository, a company **must satisfy all of the following r
 | **Expert.ai S.p.A.**                     | Product / AI                   | AI & NLP Software                            | [Website](https://www.expert.ai) | [Careers](https://www.expert.ai/careers/) | [LinkedIn](https://www.linkedin.com/company/expert-ai/) |
 | **Inaz S.r.l.**                          | Enterprise / Product           | HR Software & Payroll                        | [Website](https://www.inaz.it) | [Careers](https://www.inaz.it/chi-siamo/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/inaz/) |
 | **Italdesign-Giugiaro S.p.A.**           | B2B / Services & Manufacturing | Automotive / Industrial Design & Engineering | [Website](https://www.italdesign.it/) | [Careers](https://www.italdesign.it/it/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/italdesign-official/) |
-| **iubenda S.r.l.**                       | Product / SaaS                 | LegalTech / Compliance                       | [Website](https://www.iubenda.com) | [Careers](https://careers.iubenda.com/) | [LinkedIn](https://www.linkedin.com/company/iubenda/) |
+| **Iubenda S.r.l.**                       | Product / SaaS                 | LegalTech / Compliance                       | [Website](https://www.iubenda.com) | [Careers](https://careers.iubenda.com/) | [LinkedIn](https://www.linkedin.com/company/iubenda/) |
+| **Leaf Space S.p.A.**                    | B2B / SaaS | Aerospace / Satellite Communications | [Website](https://leaf.space)       | [Careers](https://leaf.space/contact/work-with-us/) | [LinkedIn](https://www.linkedin.com/company/leaf-space/) |
 | **MailUp S.p.A.**                        | Product / SaaS                 | MarTech & Email Marketing                    | [Website](https://www.mailup.it) | [Careers](https://mailup.it/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/mailup/) |
 | **MotorK Italia s.r.l.**                 | SaaS / AI                      | Automotive / Marketing                       | [Website](https://www.motork.ai/it/) | [Careers](https://www.motork.ai/it/careers) | [LinkedIn](https://www.linkedin.com/company/motorkofficial/) |
 | **Musixmatch S.p.A.**                    | Product / Platform             | MusicTech & Metadata                         | [Website](https://www.musixmatch.com) | [Careers](https://about.musixmatch.com/open-positions) | // |
@@ -67,7 +68,7 @@ To be listed in this repository, a company **must satisfy all of the following r
 | **ShippyPro S.r.l.**                     | Product / SaaS                 | LogTech / E-Commerce                         | [Website](https://www.shippypro.com) | [Careers](https://www.shippypro.com/it/lavora-con-noi) | [LinkedIn](https://www.linkedin.com/company/shippypro/) |
 | **Sistemi S.p.A.**                       | Enterprise / Product           | Professional & ERP Software                  | [Website](https://www.sistemi.com) | [Careers](https://www.sistemi.com/lavora-con-noi/) | [LinkedIn](https://www.linkedin.com/company/sistemi-s-p-a-/) |
 | **TeamSystem S.p.A.**                    | Enterprise / Product           | ERP & Business Software                      | [Website](https://www.teamsystem.com) | [Careers](https://www.teamsystem.com/careers/) | [LinkedIn](https://www.linkedin.com/company/teamsystem/) |
-| **TESISQUARE S.p.A.**                    | Enterprise / Product           | Supply Chain Software                        | [Website](https://www.tesisquare.com) | [Careers](https://www.tesisquare.com/it/careers/) | [LinkedIn](https://www.linkedin.com/company/tesisquare/) |
+| **Tesisquare S.p.A.**                    | Enterprise / Product           | Supply Chain Software                        | [Website](https://www.tesisquare.com) | [Careers](https://www.tesisquare.com/it/careers/) | [LinkedIn](https://www.linkedin.com/company/tesisquare/) |
 | **Translated S.r.l.**                    | Product / AI                   | AI & Language Services                       | [Website](https://translated.com) | [Careers](https://translated.com/work-with-us) | [LinkedIn](https://www.linkedin.com/company/translated/) |
 | **Unobravo S.r.l.**                      | Product / Platform             | HealthTech / E-Health                        | [Website](https://www.unobravo.com) | [Careers](https://www.unobravo.com/lavora-con-noi) | [LinkedIn](https://www.linkedin.com/company/unobravo/) |
 | **Zucchetti S.p.A.**                     | Enterprise / Product           | HR & Enterprise Software                     | [Website](https://www.zucchetti.it) | [Careers](https://www.zucchetti.it/it/cms/careers/opportunita-di-lavoro.html) | [LinkedIn](https://www.linkedin.com/company/zucchetti/) |
@@ -77,15 +78,7 @@ To be listed in this repository, a company **must satisfy all of the following r
 
 ## Contributing
 
-Contributions are welcome! If you know a company that meets all inclusion criteria, please help expand the list.
-
-### Contribution Steps:
-1. **Fork** the repository.
-2. Edit `README.md` to add the company in **alphabetical order** to the directory table.
-3. Verify that the company respects all **Inclusion Criteria**.
-4. Provide valid links to at least the official **Career Page** or **LinkedIn Profile** (preferably both).
-5. Submit a **Pull Request**.
-
+Moved to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
