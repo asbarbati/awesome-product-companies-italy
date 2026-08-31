@@ -74,6 +74,7 @@ To be listed in this repository, a company **must satisfy all of the following r
 | **Tesisquare S.p.A.**                    | Enterprise / Product           | Supply Chain Software                        | [Website](https://www.tesisquare.com) | [Careers](https://www.tesisquare.com/it/careers/) | [LinkedIn](https://www.linkedin.com/company/tesisquare/) |
 | **Translated S.r.l.**                    | Product / AI                   | AI & Language Services                       | [Website](https://translated.com) | [Careers](https://translated.com/work-with-us) | [LinkedIn](https://www.linkedin.com/company/translated/) |
 | **Unobravo S.r.l.**                      | Product / Platform             | HealthTech / E-Health                        | [Website](https://www.unobravo.com) | [Careers](https://www.unobravo.com/lavora-con-noi) | [LinkedIn](https://www.linkedin.com/company/unobravo/) |
+| **Wolters Kluwer N.V.e.**                | Enterprise / SaaS              | Legal, Tax & Software                        | [Website](https://www.wolterskluwer.com) | [Careers](https://careers.wolterskluwer.com/) | [LinkedIn](https://www.linkedin.com/company/wolters-kluwer/) |
 | **Zucchetti S.p.A.**                     | Enterprise / Product           | HR & Enterprise Software                     | [Website](https://www.zucchetti.it) | [Careers](https://www.zucchetti.it/it/cms/careers/opportunita-di-lavoro.html) | [LinkedIn](https://www.linkedin.com/company/zucchetti/) |
 
 
