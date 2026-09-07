@@ -16,7 +16,7 @@ body:
       description: "Enter the official name of the company."
       placeholder: "e.g., Acme Corp"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: business_type
@@ -25,7 +25,7 @@ body:
       description: "Specify the type of business (e.g., B2B, B2C, Agency, Startup, Enterprise)."
       placeholder: "e.g., B2B Software"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: sector
@@ -34,7 +34,7 @@ body:
       description: "Indicate the industry or sector."
       placeholder: "e.g., Fintech, Healthcare, E-commerce"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: website_link
