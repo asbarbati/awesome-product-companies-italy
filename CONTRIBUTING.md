@@ -4,7 +4,7 @@ Contributions are welcome! If you know a company that meets all inclusion criter
 
 ### Contribution Steps:
 1. **Fork** the repository.
-2. Edit `README.md` to add the company in **alphabetical order** to the directory table.
+2. Edit `README.md` to add the company with full name (like Srl, Spa, etc..) in **alphabetical order** to the directory table.
 3. Verify that the company respects all **Inclusion Criteria**.
 4. Provide valid links to at least the official **Career Page** or **LinkedIn Profile** (preferably both).
 5. Submit a **Pull Request**.
